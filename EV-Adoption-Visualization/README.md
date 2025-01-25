@@ -71,7 +71,7 @@ This project investigates strategies to make electric vehicles (EVs) more afford
 
 ### **PDF Report**
 The full report summarizing the findings, visualizations, and actionable recommendations is available for download:
-- [EV-Adoption-Report.pdf](./visuals/EV-Adoption-Report.pdf)
+- [EV-Adoption-Report.pdf](./EV-Adoption-Report.pdf)
 
 ---
 
