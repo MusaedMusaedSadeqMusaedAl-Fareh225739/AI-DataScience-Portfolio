@@ -105,6 +105,6 @@ Each project is housed in its own folder, which contains:
 Check the README.md files in each project folder for setup and usage instructions.
 
 📬 Contact Me
-If you have any questions, collaboration ideas, or opportunities, feel free to reach out to me at your.email@example.com.
+If you have any questions, collaboration ideas, or opportunities, feel free to reach out to me at jimalfareh@gmail.com.
 
 Thank you for visiting my portfolio! 🚀
