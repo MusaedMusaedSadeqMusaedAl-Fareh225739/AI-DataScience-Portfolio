@@ -1,6 +1,6 @@
-# AI & Blockchain Portfolio
+# AI & Data Science Portfolio
 
-Welcome to my **AI & Blockchain Portfolio**! This repository is a collection of my personal projects that showcase my expertise in **Artificial Intelligence (AI)**, **Data Science**, **Blockchain**, and **Data Visualization**. All projects here were built from scratch and demonstrate my passion for solving real-world problems with cutting-edge technology.
+Welcome to my **AI & Data Science Portfolio**! This repository is a collection of my personal projects that showcase my expertise in **Artificial Intelligence (AI)**, **Data Science**, **Blockchain**, and **Data Visualization**. All projects here were built from scratch and demonstrate my passion for solving real-world problems with cutting-edge technology.
 
 ---
 
@@ -108,6 +108,9 @@ No Liability: These projects are for educational and showcase purposes. I am not
 Get in Touch
 If you'd like to collaborate, provide feedback, or discuss any of these projects, feel free to reach out:
 
-LinkedIn: Musaed Alfareh
+LinkedIn: www.linkedin.com/in/musaed-alfareh-a365521b9
+
 Email: jimalfareh@gmail.com
+
+
 Thank you for exploring my work. I look forward to connecting and sharing ideas!
