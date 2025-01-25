@@ -32,6 +32,7 @@ AI-DataScience-Portfolio/
 │   └── visuals/             # Charts, demos, screenshots
 ├── another-project/         # Additional projects follow the same pattern
 └── ...
+```
 Project Highlights
 Driving Risk Prediction
 Description: A machine learning model to assess driving risks using real-world data.
