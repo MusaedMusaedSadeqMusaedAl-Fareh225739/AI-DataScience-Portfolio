@@ -110,8 +110,7 @@ EV-Adoption-Visualization/
 ## How to Explore This Project
 
 ### Option 1: Download the Report
-Access the detailed findings in the [EV-Adoption-Report.pdf](./visuals/EV-Adoption-Report.pdf).
-
+Access the detailed findings in the [EV-Adoption-Report.pdf](./EV-Adoption-Report.pdf).
 ### Option 2: Run Locally
 Clone the repository to explore raw data or Python scripts (if provided):
 ```bash
