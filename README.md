@@ -13,17 +13,16 @@ This portfolio serves three primary purposes:
 
 ---
 
-## Repository Structure
-
-All projects follow this folder structure:
 AI-Blockchain-Portfolio/
-├── Project-Name/
-│ ├── README.md # Detailed documentation
-│ ├── code/ # Source files
-│ ├── datasets/ # Data (or references)
-│ ├── docs/ # Technical specifications
-│ └── visuals/ # Charts, demos, or screenshots
+├── project-name/ # Main project folder
+│ ├── README.md # Detailed documentation & overview
+│ ├── code/ # Source files and scripts
+│ ├── datasets/ # Raw/processed data (or references)
+│ ├── docs/ # Technical specifications, APIs
+│ └── visuals/ # Charts, demos, screenshots
+├── another-project/ # Additional projects follow the same pattern
 └── ...
+
 
 
 ---
