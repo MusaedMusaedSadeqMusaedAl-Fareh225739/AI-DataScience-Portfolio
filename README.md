@@ -108,5 +108,7 @@ No Liability: These projects are for educational and showcase purposes. I am not
 📬 Get in Touch
 If you'd like to collaborate, provide feedback, or discuss any of these projects, feel free to reach out:
 
+
 LinkedIn: www.linkedin.com/in/musaed-alfareh-a365521b9
+
 Email: jimalfareh@gmail.com 
