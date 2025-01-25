@@ -92,3 +92,32 @@ EV-Adoption-Visualization/
 │   ├── EV-Adoption-Report.pdf  # Full PDF report
 ├── code/                    # Python scripts (if applicable)
 └── docs/                    # Additional research documents (optional)
+
+```
+## Recommendations for Future Work
+
+1. **Expand Data Sources**:
+   - Incorporate more granular data on household incomes and charging infrastructure availability.
+
+2. **Policy Design**:
+   - Suggest targeted government incentives for low-income groups to close the affordability gap.
+
+3. **Interactive Tools**:
+   - Develop calculators or dashboards to help users estimate savings and evaluate EV affordability.
+
+---
+
+## How to Explore This Project
+
+### Option 1: Download the Report
+Access the detailed findings in the [EV-Adoption-Report.pdf](./visuals/EV-Adoption-Report.pdf).
+
+### Option 2: Run Locally
+Clone the repository to explore raw data or Python scripts (if provided):
+```bash
+git clone https://github.com/yourusername/EV-Adoption-Visualization.git
+cd EV-Adoption-Visualization
+
+
+
+
