@@ -26,27 +26,27 @@ AI-Blockchain-Portfolio/
 ├── another-project/         # Additional projects follow the same pattern
 └── ...
 Featured Projects
-Driving Risk Prediction
+🚗 Driving Risk Prediction
 Objective: Machine learning model to assess driving risks using real-world data.
 Key Features: Classification algorithms, Flask-based UI.
 Tech Stack: Python, Scikit-learn, Matplotlib.
-Bitcoin Price Forecasting
+📈 Bitcoin Price Forecasting
 Objective: Hybrid ARIMA/LSTM model for cryptocurrency price prediction.
 Key Features: Volatility analysis, time-series forecasting.
 Tech Stack: TensorFlow, Pandas, Plotly.
-Recyclable Material Classification
+♻️ Recyclable Material Classification
 Objective: Image classification system for waste management.
 Key Features: CNN model, React.js interface.
 Tech Stack: TensorFlow, Keras, Firebase.
-Blockchain Data Management
+🔗 Blockchain Data Management
 Objective: Decentralized data-sharing proof-of-concept.
 Key Features: Smart contracts, Ethereum integration.
 Tech Stack: Solidity, Web3.js.
-EV Adoption Analysis
+⚡ EV Adoption Analysis
 Objective: Data-driven insights on electric vehicle adoption.
 Key Features: SDG alignment, CO2 impact analysis.
 Tech Stack: Tableau, Power BI, Python.
-SME Cybersecurity Research
+📊 SME Cybersecurity Research
 Objective: Qualitative study on SME data privacy challenges.
 Deliverables: Research paper, interview analysis scripts.
 Methods: Surveys, thematic coding, policy recommendations.
@@ -68,10 +68,3 @@ Follow individual project README.md files for setup instructions.
 Contact
 For inquiries or collaboration opportunities: 📧 jimalfareh@gmail.com
 
-Thank you for exploring my work.
-
-yaml
-Copy
-Edit
-
----
