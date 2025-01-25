@@ -25,7 +25,6 @@ AI-Blockchain-Portfolio/
 │ └── visuals/ # Charts, demos, or screenshots
 └── ...
 
-Copy
 
 ---
 
