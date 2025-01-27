@@ -91,7 +91,6 @@ The cleaned dataset is stored as an Excel file (`Cleaned_Data.xlsx`) with **12 s
 
 ## File Structure
 
-```plaintext
 data/
 ├── cleaned/
 │   ├── Cleaned_Data.xlsx        # Excel file with 12 sheets of cleaned data
