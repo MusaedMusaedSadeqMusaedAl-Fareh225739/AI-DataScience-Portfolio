@@ -91,6 +91,7 @@ The cleaned dataset is stored as an Excel file (`Cleaned_Data.xlsx`) with **12 s
 
 ## File Structure
 
+```plaintext
 data/
 ├── cleaned/
 │   ├── Cleaned_Data.xlsx        # Excel file with 12 sheets of cleaned data
@@ -105,6 +106,8 @@ Copy
 Edit
 git clone https://github.com/yourusername/EV-Adoption-Visualization.git
 cd EV-Adoption-Visualization/data/cleaned
+```
+
 Use Python, R, or Power BI to load and analyze the data.
 Limitations
 Missing Data:
@@ -132,5 +135,3 @@ Copy
 Edit
 
 ---
-
-You can directly paste this into your `README.md` file for the dataset. Let me know if you'd li
