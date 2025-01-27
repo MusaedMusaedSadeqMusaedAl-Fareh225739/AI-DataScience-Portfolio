@@ -127,11 +127,9 @@ Contact
 For inquiries or collaboration opportunities:
 
 LinkedIn: Musaed Alfareh
-Email: jimalfareh@gmail.com
-Thank you for exploring this project and supporting sustainable transportation!
 
-yaml
-Copy
-Edit
+Email: jimalfareh@gmail.com
+
+Thank you for exploring this project and supporting sustainable transportation!
 
 ---
