@@ -96,7 +96,7 @@ nac-breda-player-selection/
 
 This project was developed as part of an academic collaboration and AI portfolio effort.
 
-- **Author:** [Musaed Alfareh](mailto:jimalfareh@gmail.com)  
+- **Author:** [MusaedMusaedSadeqMusaedAl-Fareh225739](https://github.com/MusaedMusaedSadeqMusaedAl-Fareh225739)  
 - **LinkedIn:** [https://www.linkedin.com/in/musaed-alfareh-a365521b9](https://www.linkedin.com/in/musaed-alfareh-a365521b9)  
 - **Institution:** [Breda University of Applied Sciences (BUAS)](https://www.buas.nl/en)  
 - **Special Thanks:** [NAC Breda Football Club](https://www.nac.nl/) for their trust and forward-thinking approach in adopting data-driven methodologies  
