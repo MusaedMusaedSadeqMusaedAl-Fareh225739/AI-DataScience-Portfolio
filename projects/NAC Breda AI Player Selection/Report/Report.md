@@ -141,3 +141,20 @@ Versatile targets: multiposition strikers boost tactical flexibility.
 Next steps: integrate injury/risk data and explore ensemble models.
 
 ---
+## 🙌 Credits
+
+This project was developed as part of an academic collaboration and AI portfolio effort.
+
+- **Author:** [MusaedMusaedSadeqMusaedAl-Fareh225739](https://github.com/MusaedMusaedSadeqMusaedAl-Fareh225739)  
+- **LinkedIn:** [https://www.linkedin.com/in/musaed-alfareh-a365521b9](https://www.linkedin.com/in/musaed-alfareh-a365521b9)  
+- **Institution:** [Breda University of Applied Sciences (BUAS)](https://www.buas.nl/en)  
+- **Special Thanks:** [NAC Breda Football Club](https://www.nac.nl/) for their trust and forward-thinking approach in adopting data-driven methodologies  
+
+---
+
+## 📬 Contact
+
+Have questions or want to collaborate?  
+Feel free to reach out via [email](mailto:jimalfareh@gmail.com) or connect on [LinkedIn](https://www.linkedin.com/in/musaed-alfareh-a365521b9).
+
+---
