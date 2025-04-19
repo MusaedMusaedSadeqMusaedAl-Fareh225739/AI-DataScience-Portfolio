@@ -115,20 +115,25 @@ grid = GridSearchCV(model,
                     cv=5, scoring='accuracy')
 grid.fit(X_train, y_train)
 ```
----
+### 📊 Evaluation
 
-📊 Evaluation
-Best parameters: C=1, penalty='l2'
+**Best parameters:** `C=1`, `penalty='l2'`  
+**Accuracy:** 0.953  
 
-Accuracy: 0.953
+**Confusion Matrix:**
 
-Confusion Matrix:
+|           | Pred 0 | Pred 1 |
+|:----------|-------:|-------:|
+| **True 0**|   1010 |     64 |
+| **True 1**|     93 |   2140 |
 
+**Classification Report:**
 
-         	Pred 0	Pred 1
-True 0	 1010  	   64  
-True 1	   93  	 2140  
-Precision / Recall / F1: all > 0.92
+| Class | Precision | Recall | F1‑score | Support |
+|:-----:|----------:|-------:|---------:|--------:|
+| 0     |      0.92 |   0.94 |     0.93 |    1074 |
+| 1     |      0.97 |   0.96 |     0.96 |    2233 |
+
 ---
 
 💡 Conclusions & Recommendations
