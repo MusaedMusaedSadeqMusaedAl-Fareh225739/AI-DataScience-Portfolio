@@ -91,20 +91,21 @@ nac-breda-player-selection/
 └── report.pdf                # Full report submission (if available)
 ```
 ---
-🙌 Credits
+
+## 🙌 Credits
+
 This project was developed as part of an academic collaboration and AI portfolio effort.
 
-Author: Musaed Alfareh
+- **Author:** [Musaed Alfareh](mailto:jimalfareh@gmail.com)  
+- **LinkedIn:** [https://www.linkedin.com/in/musaed-alfareh-a365521b9](https://www.linkedin.com/in/musaed-alfareh-a365521b9)  
+- **Institution:** [Breda University of Applied Sciences (BUAS)](https://www.buas.nl/en)  
+- **Special Thanks:** [NAC Breda Football Club](https://www.nac.nl/) for their trust and forward-thinking approach in adopting data-driven methodologies  
 
-LinkedIn: www.linkedin.com/in/musaed-alfareh-a365521b9
-
-Institution: Breda University of Applied Sciences (BUAS)
-
-Special Thanks: NAC Breda Football Club for their trust and forward-thinking approach in adopting data-driven methodologies
 ---
 
-📬 Contact
-Have questions about the project or want to collaborate?
-Feel free to reach out via email or connect on LinkedIn.
+## 📬 Contact
 
+Have questions or want to collaborate?  
+Feel free to reach out via [email](mailto:jimalfareh@gmail.com) or connect on [LinkedIn](https://www.linkedin.com/in/musaed-alfareh-a365521b9).
 
+---
