@@ -1,7 +1,7 @@
 # EV Adoption Visualization
 
 <p align="center">
-  <img src="./projects/EV-Adopation-Visualization/SDG.png" alt="Sustainable Development Goals" width="300"/>
+  <img src="./SDG.png" alt="Sustainable Development Goals" width="300"/>
 </p>
 
 ## Overview
@@ -144,6 +144,7 @@ Clone the repository to explore raw data or Python scripts (if provided):
 ```bash
 git clone https://github.com/yourusername/EV-Adoption-Visualization.git
 cd EV-Adoption-Visualization
+
 
 
 
