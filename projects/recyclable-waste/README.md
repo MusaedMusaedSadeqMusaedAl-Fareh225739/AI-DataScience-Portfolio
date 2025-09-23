@@ -1,6 +1,6 @@
 # Recyclable Waste Classifier  
 
-<img align="left" src="./projects/recyclable-waste/buas_logo.png" alt="BUas Logo" width="120"/>  
+<img align="left" src=https://github.com/MusaedMusaedSadeqMusaedAl-Fareh225739/AI-DataScience-Portfolio/blob/main/projects/recyclable-waste/buas_logo.png  alt="BUas Logo" width="120"/>  
 
 This project develops an **image classifier for recycling facilities** to enhance sorting efficiency and improve the quality of recycled materials.  
 By leveraging deep learning, the system identifies **recyclable vs. non-recyclable items** in real-time, reducing contamination in recycling streams and enabling more sustainable operations.  
