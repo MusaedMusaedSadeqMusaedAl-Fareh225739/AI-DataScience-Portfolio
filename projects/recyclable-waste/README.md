@@ -53,8 +53,7 @@ By leveraging deep learning, the system identifies **recyclable vs. non-recyclab
 ```plaintext
 recyclable-waste/
 ├── README.md                 # Project description
-├── buas_logo.png             # Project/BUas logo
-├── datasets/                 # Training and validation data
+├── buas_logo.png             # Project/BUas logo                # Training and validation data
 ├── models/                   # Trained models
 ├── notebooks/                # Jupyter notebooks
 ├── reports/                  # Presentations & project reports
