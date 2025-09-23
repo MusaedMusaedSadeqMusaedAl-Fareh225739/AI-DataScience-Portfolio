@@ -54,7 +54,7 @@ By leveraging deep learning, the system identifies **recyclable vs. non-recyclab
 recyclable-waste/
 ├── README.md                 # Project description
 ├── buas_logo.png             # Project/BUas logo                # Training and validation data
-├── models/                   # Trained models
+                  # Trained models
                   # Plots, Grad-CAM, saliency maps
 ```
 
