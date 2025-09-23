@@ -75,12 +75,13 @@ Project Benefits
 Safer roads and more efficient traffic systems.
 
 Improved decision-making for insurance providers.
-
 Enhanced support for local authorities and emergency services.
 
 Scalable approach for other cities beyond Breda.
 
+
 Folder Structure
+```
 traffic-accident-prevention/
 ├── README.md                # Project documentation
 ├── datasets/                # Data files (ANWB, KNMI, Argaleo, Breda Road)
@@ -88,7 +89,7 @@ traffic-accident-prevention/
 ├── models/                  # Trained deep learning models
 ├── reports/                 # Project Proposal & Presentations
 └── visuals/                 # Plots, Grad-CAM, and saliency maps
-
+````
 Authors
 
 Musaed Al-Fareh – AI Engineer / Data Science student at BUas
