@@ -1,5 +1,6 @@
 Traffic Accident Prevention in Breda with AI
-<img align="left" src="https://github.com/MusaedMusaedSadeqMusaedAl-Fareh225739/AI-DataScience-Portfolio/blob/main/projects/traffic-accident-prevention/buas_logo.png" alt="BUas Logo" width="120"/>
+<img align="left" src=https://github.com/MusaedMusaedSadeqMusaedAl-Fareh225739/AI-DataScience-Portfolio/blob/main/projects/ANWB/anwb_logo.png
+alt="BUas Logo" width="120"/>
 
 This project leverages deep learning (CNN & MLP models) to predict high-risk accident areas in Breda using driving, road, and environmental data.
 The goal is to reduce accidents, support traffic management, and optimize insurance premiums through data-driven insights.
