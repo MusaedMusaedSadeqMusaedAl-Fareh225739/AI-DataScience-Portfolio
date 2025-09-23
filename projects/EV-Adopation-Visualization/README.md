@@ -1,7 +1,11 @@
 # EV Adoption Visualization
 
+<p align="center">
+  <img src="./projects/EV-Adopation-Visualization/SDG.png" alt="Sustainable Development Goals" width="300"/>
+</p>
+
 ## Overview
-This project investigates strategies to make electric vehicles (EVs) more affordable and accessible in the Netherlands, with a focus on achieving **Sustainable Development Goal 7 (SDG 7): Affordable and Clean Energy**. Using descriptive data analysis and Power BI visualizations, this research highlights key factors influencing EV adoption, such as economic benefits, government incentives, and regional disparities, while addressing the barriers that hinder low-income groups from adopting EVs.
+This project examines strategies to make electric vehicles (EVs) more affordable and accessible in the Netherlands, with a focus on achieving Sustainable Development Goal 7 (SDG 7): Affordable and Clean Energy. Using descriptive data analysis and Power BI visualizations, this research highlights key factors influencing EV adoption, such as economic benefits, government incentives, and regional disparities, while addressing the barriers that hinder low-income groups from adopting EVs.
 
 ---
 
@@ -140,6 +144,7 @@ Clone the repository to explore raw data or Python scripts (if provided):
 ```bash
 git clone https://github.com/yourusername/EV-Adoption-Visualization.git
 cd EV-Adoption-Visualization
+
 
 
 
