@@ -55,9 +55,7 @@ recyclable-waste/
 ├── README.md                 # Project description
 ├── buas_logo.png             # Project/BUas logo                # Training and validation data
 ├── models/                   # Trained models
-├── notebooks/                # Jupyter notebooks
-├── reports/                  # Presentations & project reports
-└── visuals/                  # Plots, Grad-CAM, saliency maps
+                  # Plots, Grad-CAM, saliency maps
 ```
 
 Key Recommendations
