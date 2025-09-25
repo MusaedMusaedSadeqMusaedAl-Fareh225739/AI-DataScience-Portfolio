@@ -6,7 +6,7 @@ Each project demonstrates my ability to design, build, and deploy solutions for 
 
 ---
 
-## 📂 Repository Structure
+##  Repository Structure
 
 Each project is organized in its own folder and contains:
 - **README.md**: Project overview, methodology, and results.
@@ -16,7 +16,7 @@ Each project is organized in its own folder and contains:
 
 ---
 
-## 🚀 Projects
+##  Projects
 
 ### [AI-Driven Plant Analysis](./AI-Driven-Plant-Analysis)
 - **Focus**: Computer vision for plant phenotyping and precision inoculation.  
@@ -66,7 +66,7 @@ Each project is organized in its own folder and contains:
 
 ---
 
-## 🛠️ Skills Demonstrated
+##  Skills Demonstrated
 - **Machine Learning & AI**: Classification, prediction, NLP, CV, transformers.  
 - **MLOps**: Automated pipelines, retraining, monitoring (Airflow, Azure).  
 - **Data Visualization**: Power BI, Tableau, Matplotlib, Seaborn.  
@@ -85,4 +85,3 @@ Each project is organized in its own folder and contains:
 Each project reflects my passion for applying AI to **real-world problems** and continuously pushing my learning forward.  
 ```
 
-👉 Do you also want me to make a **matching professional banner (header image)** for the README to make it stand out more?
