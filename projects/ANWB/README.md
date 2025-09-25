@@ -1,4 +1,4 @@
-Traffic Accident Prevention in Breda with AI 🚗✨
+Traffic Accident Prevention in Breda with AI 
 <img align="left" src=https://github.com/MusaedMusaedSadeqMusaedAl-Fareh225739/AI-DataScience-Portfolio/blob/main/projects/ANWB/anwb_logo.png alt="ANWB Logo" width="120"/>
 
 This project uses deep learning to predict high-risk accident areas in Breda, Netherlands, by analyzing driving behavior, road conditions, and environmental data. Our goal is to create safer roads, support proactive traffic management, and provide data-driven insights for insurance optimization. This initiative was part of a Block-C project at Breda University of Applied Sciences (BUas), in collaboration with ANWB.
