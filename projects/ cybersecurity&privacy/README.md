@@ -1,73 +1,81 @@
-Cybersecurity in SMEs – Digiwerkplaats Project
+# Cybersecurity in SMEs – Digiwerkplaats Project  
+
 <img align="left" src="https://github.com/MusaedMusaedSadeqMusaedAl-Fareh225739/AI-DataScience-Portfolio/blob/main/projects/%20cybersecurity%26privacy/digiweerkplats_mkb_logo.png" alt="Digiwerkplaats Logo" width="120"/>
 
-This project, carried out in collaboration with Digiwerkplaats and SMEs in Brabant, investigates how small and medium-sized enterprises perceive and implement cybersecurity measures to protect customer data.
-The research combines qualitative interviews and quantitative surveys to provide actionable insights for businesses, policymakers, and academic partners.
+This project, carried out in collaboration with **Digiwerkplaats** and small and medium-sized enterprises (SMEs) in Brabant, explores how SMEs perceive, implement, and struggle with cybersecurity measures.  
+The study combines qualitative interviews and quantitative surveys to provide evidence-based insights and actionable recommendations for businesses, policymakers, and academic partners.  
 
-Project Highlights
+---
 
-Problem: SMEs are highly vulnerable to cyberattacks due to limited resources, expertise, and regulatory awareness.
+##  Project Highlights
+- **Problem**: SMEs are disproportionately vulnerable to cyberattacks due to limited budgets, low expertise, and a lack of regulatory clarity.  
+- **Goal**: Investigate how SMEs perceive cybersecurity risks and propose realistic, tailored solutions.  
+- **Collaboration**: Joint initiative with **Digiwerkplaats Brabant**, supported by multiple SMEs across industries.  
+- **Impact**: Delivered **policy recommendations**, a **research poster**, and a **policy paper** to guide SME cybersecurity practices.  
 
-Goal: Understand how SMEs perceive cybersecurity risks and propose targeted solutions for improving resilience.
+---
 
-Collaboration: Conducted with Digiwerkplaats, supported by SMEs in Brabant.
+##  Methodology
 
-Impact: Provides recommendations for policymakers, SME owners, and industry stakeholders.
+### **Qualitative Analysis**
+- Conducted **semi-structured interviews** with SME employees from diverse industries.  
+- Applied the **Braun & Clarke thematic analysis framework** to uncover recurring themes in awareness, practices, and challenges.  
 
-Methodology
+### **Quantitative Analysis**
+- Surveyed **154 SME employees** across multiple sectors.  
+- Designed **Likert-scale and multiple-choice questions**.  
+- Analyzed results with:
+  - **T-tests** → for confidence level differences.  
+  - **Chi-square tests** → for categorical associations.  
+  - **Descriptive statistics & EDA** → to identify key patterns.  
 
-Qualitative Analysis
+### **Ethical Considerations**
+- All participants gave **informed consent**.  
+- Responses were **confidential and anonymized**.  
+- Research followed academic **ethical compliance standards** (GDPR alignment).  
 
-Semi-structured interviews with SME employees.
+---
 
-Thematic analysis (Braun & Clarke framework) to uncover patterns in awareness, practices, and challenges.
+##  Key Findings
+- **Confidence Gaps**: Larger SMEs (e.g., IT, Finance) show higher confidence, while smaller SMEs (e.g., Agriculture, PR) remain underprepared.  
+- **Financial Constraints**: Most SMEs cannot afford dedicated cybersecurity staff or advanced tools.  
+- **Reliance on Outsourcing**: Smaller firms outsource IT security → raising **trust** and **data control** issues.  
+- **Awareness Gaps**: Employees value cybersecurity but lack understanding of **policy/regulation consequences**.  
 
-Quantitative Analysis
+---
 
-Survey of 154 SME employees across sectors.
+##  Recommendations
+1. **Sector-Specific Guidelines** → Tailored strategies per industry instead of a one-size-fits-all model.  
+2. **Financial Incentives** → Grants, tax reliefs, or subsidies for SMEs investing in security.  
+3. **Public-Private Partnerships** → Connect SMEs with larger firms for access to training and shared tools.  
+4. **Mandatory Training** → Introduce regular **practical cybersecurity training** for SME employees.  
+5. **Simplified Compliance** → Develop easy-to-follow frameworks for **GDPR** and related policies.  
 
-Likert-scale and multiple-choice questions analyzed with t-tests, chi-square tests, and descriptive statistics.
+---
 
-Ethical Considerations
+## My Role in the Project
+- **Research & Analysis**: Designed surveys, conducted interviews, and processed SME feedback.  
+- **Data Analysis**: Applied **t-tests, chi-square tests, and exploratory statistics** to survey data.  
+- **Documentation**: Co-authored the **policy paper**, **poster**, and **research proposal**.  
+- **Recommendations**: Ensured solutions were **practical** and aligned with SME **budgetary and resource constraints**.  
+- **Collaboration**: Worked directly with SMEs and Digiwerkplaats coordinators to validate findings.  
 
-Informed consent, confidentiality, and anonymized responses ensured compliance with research ethics.
+---
 
-Key Findings
+##  Deliverables  
+- 📄 **[Policy Paper](https://github.com/MusaedMusaedSadeqMusaedAl-Fareh225739/AI-DataScience-Portfolio/blob/main/projects/%20cybersecurity%26privacy/Policy_Paper%20(2).pdf)**  
+- 📊 **[Research Poster](https://github.com/MusaedMusaedSadeqMusaedAl-Fareh225739/AI-DataScience-Portfolio/blob/main/projects/%20cybersecurity%26privacy/Temperature%20Change%20Research%20Poster%20in%20Light%20Orange%20Orange%20Hand%20Drawn%20Style%20(3).pdf)**  
+- 📝 **[Research Proposal](https://github.com/MusaedMusaedSadeqMusaedAl-Fareh225739/AI-DataScience-Portfolio/blob/main/projects/%20cybersecurity%26privacy/research_proposal_template_Y2A__1_%20(1).pdf)**  
 
-Confidence Gaps: Larger SMEs in IT/Finance report higher confidence, while smaller SMEs (e.g., agriculture, PR) show weaker preparedness.
+---
 
-Financial Constraints: Many SMEs lack budgets for cybersecurity staff or advanced tools.
+## Impact
+This project directly contributes to **SME digital resilience** in Brabant by bridging the gap between **policy frameworks** and **on-the-ground practices**.  
+The deliverables provide **academic insight, business guidance, and policy recommendations** for improving SME cybersecurity at scale.  
 
-Reliance on Outsourcing: Smaller SMEs often depend on external providers, raising issues of trust and data control.
+---
 
-Awareness Gaps: Employees often lack understanding of policy consequences despite valuing cybersecurity.
-
-Recommendations
-
-Sector-Specific Guidelines: Tailor cybersecurity strategies to industry needs instead of a one-size-fits-all approach.
-
-Financial Incentives: Provide grants or tax benefits for SMEs investing in cybersecurity.
-
-Public-Private Partnerships: Connect SMEs with larger corporations to share tools, training, and expertise.
-
-Mandatory Training: Introduce practical cybersecurity training programs to close awareness gaps.
-
-Simplified Compliance: Develop easier-to-follow frameworks for GDPR and related regulations.
-
-My Role in the Project
-
-Acted as team researcher and analyst.
-
-Contributed to survey design and data collection with Digiwerkplaats SMEs.
-
-Led statistical analysis (t-tests, chi-square, EDA).
-
-Co-authored the policy paper and poster for academic dissemination.
-
-Ensured the final recommendations were actionable and aligned with SME constraints.
-
-## Deliverables  
-- 📄 [Policy Paper](https://github.com/MusaedMusaedSadeqMusaedAl-Fareh225739/AI-DataScience-Portfolio/blob/main/projects/%20cybersecurity%26privacy/Policy_Paper%20(2).pdf)  
-- 📊 [Research Poster](https://github.com/MusaedMusaedSadeqMusaedAl-Fareh225739/AI-DataScience-Portfolio/blob/main/projects/%20cybersecurity%26privacy/Temperature%20Change%20Research%20Poster%20in%20Light%20Orange%20Orange%20Hand%20Drawn%20Style%20(3).pdf)  
-- 📝 [Research Proposal](https://github.com/MusaedMusaedSadeqMusaedAl-Fareh225739/AI-DataScience-Portfolio/blob/main/projects/%20cybersecurity%26privacy/research_proposal_template_Y2A__1_%20(1).pdf)  
-
+## 👥 Authors & Collaborators
+- **Musaed Al-Fareh** – Researcher & Data Analyst  
+- Digiwerkplaats Brabant – Client / Partner  
+- Block-C Project Team – Collaboration & Support  
