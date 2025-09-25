@@ -59,16 +59,7 @@ SQL & Pandas: For efficient data management and manipulation.
 Seaborn & Matplotlib: For data visualization.
 
 
-Folder Structure
-```
-traffic-accident-prevention/
-├── README.md                # Project documentation
-├── datasets/                # Data files (ANWB, KNMI, Argaleo, Breda Road)
-├── notebooks/               # Model training & evaluation notebooks
-├── models/                  # Trained deep learning models
-├── reports/                 # Project Proposal & Presentations
-└── visuals/                 # Plots, Grad-CAM, and saliency maps
-````
+
 Authors
 
 Musaed Al-Fareh – AI Engineer / Data Science student at BUas
