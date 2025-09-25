@@ -79,6 +79,3 @@ By combining **U-Net-based semantic segmentation** with **robot control (PID & R
 
 ---
 
-Now every section is marked with `#` / `##` / `###` so you’ll clearly see **big bold headings on GitHub**.
-
-👉 Do you also want me to **insert placeholder `<img>` markdown tags** under “Planned Additions” so you know where to drop your Petri dish, segmentation, and robot workflow images?
