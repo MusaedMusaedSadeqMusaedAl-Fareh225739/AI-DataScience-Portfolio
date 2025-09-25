@@ -1,7 +1,7 @@
 
 # Multilingual NLP MLOps Project
 
-<img align="left" src="./airflow.jpg" alt="Airflow Pipeline" width="180"/>  
+<img align="left" src="https://github.com/MusaedMusaedSadeqMusaedAl-Fareh225739/AI-DataScience-Portfolio/blob/main/projects/MLOps-Deployment/cia_logo.jpg" alt="Airflow Pipeline" width="180"/>  
 
 This project showcases the development of a **multilingual NLP system** integrated with a full **MLOps pipeline**.
 The goal was to create an **automated, scalable solution** capable of handling continuous retraining and deployment across multiple languages: **English, Dutch, Spanish, and German**.
