@@ -1,67 +1,73 @@
-Traffic Accident Prevention in Breda with AI 
-<img align="left" src=https://github.com/MusaedMusaedSadeqMusaedAl-Fareh225739/AI-DataScience-Portfolio/blob/main/projects/ANWB/anwb_logo.png alt="ANWB Logo" width="120"/>
+# Traffic Accident Prevention in Breda with AI  
 
-This project uses deep learning to predict high-risk accident areas in Breda, Netherlands, by analyzing driving behavior, road conditions, and environmental data. Our goal is to create safer roads, support proactive traffic management, and provide data-driven insights for insurance optimization. This initiative was part of a Block-C project at Breda University of Applied Sciences (BUas), in collaboration with ANWB.
+<img align="left" src="https://github.com/MusaedMusaedSadeqMusaedAl-Fareh225739/AI-DataScience-Portfolio/blob/main/projects/ANWB/anwb_logo.png" alt="ANWB Logo" width="120"/>  
 
-The Challenge
-Traffic accidents are often caused by a complex combination of factors, including high-risk driving behaviors and unpredictable environmental conditions. Identifying accident hotspots before they occur is a critical challenge for urban planners and traffic authorities. This project addresses this problem by leveraging a rich, multi-source dataset to predict accident severity and pinpoint high-risk areas.
+This project leverages **deep learning** to predict high-risk accident areas in Breda, Netherlands, by analyzing **driving behavior, road conditions, and environmental factors**.  
+The goal is to create **safer roads**, support **proactive traffic management**, and provide **data-driven insights for insurance optimization**.  
 
-Solution & Methodology
-Our solution employs a machine learning pipeline to integrate and analyze various datasets. We used two primary deep learning models to predict accident risks:
+This initiative was conducted as part of a **Block-C project at Breda University of Applied Sciences (BUas)** in collaboration with **ANWB**.
 
-Convolutional Neural Networks (CNN): Used for spatial and temporal analysis of high-risk driving patterns.
+---
 
-Multi-Layer Perceptron (MLP): Used for structured prediction of accident severity based on a range of features.
+##  The Challenge  
+Traffic accidents are often caused by a **complex interplay of driving behavior, infrastructure, and environmental conditions**.  
+Urban planners and authorities face the challenge of **identifying accident hotspots before they occur**.  
 
-The project's methodology followed these key steps:
+Our project addresses this by building predictive AI models trained on **multi-source datasets** to forecast accident severity and detect high-risk areas.
 
-Data Collection & Integration: We integrated four distinct datasets:
+---
 
-ANWB Safe Driving: Contains driving events like speed, harsh braking, and cornering.
+##  Solution & Methodology  
 
-Breda Road: Includes data on road conditions, slopes, and usage.
+We designed a **machine learning pipeline** that integrates multiple datasets and applies deep learning models for prediction.  
 
-KNMI Weather: Provides weather data, such as precipitation and temperature.
+### Models Applied
+- **Convolutional Neural Networks (CNNs):** Spatial & temporal analysis of high-risk driving patterns.  
+- **Multi-Layer Perceptron (MLP):** Structured prediction of accident severity based on engineered features.  
 
-Argaleo Greenery: Offers information on vegetation affecting visibility and road conditions.
+### Methodology Steps
+1. **Data Collection & Integration**
+   - **ANWB Safe Driving:** Driving events (speed, harsh braking, cornering).  
+   - **Breda Road:** Road conditions, slopes, and usage.  
+   - **KNMI Weather:** Weather conditions (precipitation, wind, temperature).  
+   - **Argaleo Greenery:** Vegetation affecting visibility and road safety.  
 
-Preprocessing & Feature Engineering: Raw data was cleaned, normalized, and engineered to create meaningful features for our models.
+2. **Preprocessing & Feature Engineering**  
+   - Cleaning, normalization, and creation of engineered features.  
 
-Model Training & Evaluation: The CNN and MLP models were trained and then evaluated using standard metrics like accuracy, precision, recall, and F1-score.
+3. **Model Training & Evaluation**  
+   - CNN and MLP trained on integrated datasets.  
+   - Metrics: **Accuracy, Precision, Recall, F1-score**.  
 
-Deployment: A Streamlit dashboard was developed for real-time visualization of risk predictions, providing an intuitive interface for traffic managers and other stakeholders.
+4. **Deployment**  
+   - **Streamlit dashboard** for real-time visualization of accident risk predictions.  
 
-Key Results & Takeaways
-Strong Predictive Performance: Both the CNN and MLP models achieved strong performance in predicting accident severity and identifying high-risk locations.
+---
 
-Explainable AI: We used techniques like Grad-CAM and Saliency Maps to interpret our model's predictions, providing transparency and trust in the AI's recommendations.
+##  Key Results & Takeaways  
+- **Strong Predictive Performance:** CNN & MLP both performed well in forecasting high-risk zones.  
+- **Explainable AI:** Grad-CAM & Saliency Maps used to interpret and validate predictions.  
+- **Real-Time Insights:** Streamlit dashboard enabled proactive, data-driven traffic management.  
 
-Real-Time Insights: The Streamlit application effectively demonstrated how real-time insights can be used for proactive traffic management.
+---
 
-Benefits of the Project
-Life-Saving Potential: Our models can help identify accident hotspots before incidents happen, enabling authorities to implement targeted interventions and save lives.
+##  Benefits of the Project  
+- **Life-Saving Potential:** Identifies accident hotspots in advance, enabling targeted interventions.  
+- **Smarter Traffic Management:** Provides municipalities with actionable, data-driven insights.  
+- **Insurance Optimization:** Supports risk-based pricing models for insurers.  
+- **Scalability:** Approach can be replicated in other cities beyond Breda.  
 
-Smarter Traffic Management: Provides local authorities with a data-driven tool for optimizing traffic flow and road safety.
+---
 
-Insurance Optimization: The insights can inform dynamic, risk-based pricing models for insurance providers, promoting safer driving.
+##  Technologies Used  
+- **Python** – Core programming language.  
+- **TensorFlow & PyTorch** – Deep learning frameworks.  
+- **Streamlit** – Interactive dashboard deployment.  
+- **SQL & Pandas** – Data management and processing.  
+- **Seaborn & Matplotlib** – Data visualization.  
 
-Scalability: The approach is scalable and can be applied to other cities beyond Breda.
+---
 
-Technologies Used
-Python: Core language for data processing and model development.
-
-TensorFlow & PyTorch: Frameworks for building and training deep learning models.
-
-Streamlit: For creating the interactive web dashboard.
-
-SQL & Pandas: For efficient data management and manipulation.
-
-Seaborn & Matplotlib: For data visualization.
-
-
-
-Authors
-
-Musaed Al-Fareh – AI Engineer / Data Science student at BUas
-
-Alexi Kehayias, Michon Goddijn, Benjamin Spiertz – Collaborators, Block-C Project Team
+## 👥 Authors  
+- **Musaed Al-Fareh** – AI Engineer / Data Science Student @ BUas  
+- **Alexi Kehayias, Michon Goddijn, Benjamin Spiertz** – Collaborators, Block-C Project Team  
