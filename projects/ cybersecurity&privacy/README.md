@@ -1,5 +1,5 @@
 Cybersecurity in SMEs – Digiwerkplaats Project
-<img align="left" src="https://github.com/MusaedMusaedSadeqMusaedAl-Fareh225739/AI-DataScience-Portfolio/blob/main/projects/digiwerkplaats/digi_logo.png" alt="Digiwerkplaats Logo" width="120"/>
+<img align="left" src="https://github.com/MusaedMusaedSadeqMusaedAl-Fareh225739/AI-DataScience-Portfolio/blob/main/projects/%20cybersecurity%26privacy/digiweerkplats_mkb_logo.png" alt="Digiwerkplaats Logo" width="120"/>
 
 This project, carried out in collaboration with Digiwerkplaats and SMEs in Brabant, investigates how small and medium-sized enterprises perceive and implement cybersecurity measures to protect customer data.
 The research combines qualitative interviews and quantitative surveys to provide actionable insights for businesses, policymakers, and academic partners.
