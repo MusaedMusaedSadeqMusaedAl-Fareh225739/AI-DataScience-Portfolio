@@ -1,3 +1,9 @@
+Perfect 👍 thanks for sharing the image links! Let’s turn your README into something **clean, visual, and professional** with the workflow images nicely integrated step by step.
+
+Here’s the full improved `README.md`:
+
+---
+
 # AI-Driven Plant Analysis
 
 <img align="left" src="./npec_logo.png" alt="NPEC Logo" width="120"/>  
@@ -30,36 +36,38 @@ By combining **U-Net-based semantic segmentation** with **robot control (PID & R
 
 ---
 
-## Technical Workflow
+## Workflow & Process
 
-### 1. Image Processing & Segmentation
+The pipeline integrates **computer vision + robotics** in five major steps:
 
-* Preprocessed Petri dish images to remove background interference.
-* Trained **U-Net** on refined datasets for **seed, shoot, and root segmentation**.
-* Applied **instance segmentation** for root length measurement and root tip detection.
+### 1. Original Petri Dish Image
 
-### 2. Root Measurement
-
-* Used **Dijkstra’s algorithm** to calculate primary root length.
-* Produced interpretable outputs for biological researchers.
-
-### 3. Robotic Inoculation
-
-* Integrated segmentation pipeline with the **OT-2 robot**.
-* Implemented **PID controller** for precision liquid handling.
-* Compared **PID vs RL** trade-offs for inoculation speed and accuracy.
+Captured raw plant growth images. <img src="https://github.com/MusaedMusaedSadeqMusaedAl-Fareh225739/AI-DataScience-Portfolio/blob/main/projects/AI-Driven-Plant-Analysis/Screenshot%202025-09-25%20235948.png" width="400"/>
 
 ---
 
-## Planned Additions
+### 2. Petri Dish Extraction
 
-* Detailed explanation of **PID controller design** (with diagrams).
-* Example workflow images:
+Removed background noise, isolated the dish for cleaner analysis. <img src="https://github.com/MusaedMusaedSadeqMusaedAl-Fareh225739/AI-DataScience-Portfolio/blob/main/projects/AI-Driven-Plant-Analysis/Screenshot%202025-09-25%20235736.png" width="400"/>
 
-  * Original Petri dish image.
-  * Plant segmentation mask.
-  * Root prediction output.
-  * Robot inoculation targeting.
+---
+
+### 3. Plant Instance Segmentation
+
+Applied **U-Net** for semantic segmentation of plants (seeds, shoots, roots). <img src="https://github.com/MusaedMusaedSadeqMusaedAl-Fareh225739/AI-DataScience-Portfolio/blob/main/projects/AI-Driven-Plant-Analysis/Screenshot%202025-09-25%20235743.png" width="400"/>
+
+---
+
+### 4. Root Prediction
+
+Predicted root structures and extracted **primary root length** using **Dijkstra’s algorithm**. <img src="https://github.com/MusaedMusaedSadeqMusaedAl-Fareh225739/AI-DataScience-Portfolio/blob/main/projects/AI-Driven-Plant-Analysis/Screenshot%202025-09-25%20235751.png" width="400"/>
+
+---
+
+### 5. Plant Inoculation
+
+Integrated predictions with the **OT-2 robot** to inoculate plants at precise root tips.
+Compared **PID controller** vs **Reinforcement Learning** for targeting accuracy. <img src="https://github.com/MusaedMusaedSadeqMusaedAl-Fareh225739/AI-DataScience-Portfolio/blob/main/projects/AI-Driven-Plant-Analysis/Screenshot%202025-09-25%20235802.png" width="400"/>
 
 ---
 
