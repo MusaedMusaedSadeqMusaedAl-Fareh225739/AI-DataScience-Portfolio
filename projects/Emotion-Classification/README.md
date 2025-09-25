@@ -2,7 +2,7 @@
 
 # Emotion Classification from Arabic Reality Show Dialogue
 
-<img align="left" src="./cia_logo.png" alt="CIA Logo" width="120"/>  
+<img align="left" src="./cia_logo.jpg" alt="CIA Logo" width="120"/>  
 
 **Client:** Content Intelligence Agency (CIA)
 
