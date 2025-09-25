@@ -26,7 +26,7 @@ Everything is fully automated — from **data ingestion** to **deployment and mo
 
 ---
 
-## 🖼️ Visuals
+##  Visuals
 
 ### Architecture & Workflow
 
@@ -40,7 +40,7 @@ See the **Evidence Screenshots** folder for execution proof and demo visuals.
 
 ---
 
-## 📊 Demo & Presentation
+##  Demo & Presentation
 
 * **Power BI Dashboard** → [Dashboard.pbix](./Dashboard.pbix)
 * **Project Presentation Slides** → *(add link or PDF if you want)*
@@ -48,7 +48,7 @@ See the **Evidence Screenshots** folder for execution proof and demo visuals.
 
 ---
 
-## 🚀 Key Takeaways
+##  Key Takeaways
 
 * End-to-end **automated MLOps pipeline** for NLP tasks.
 * **Continuous learning** through retraining with new data.
