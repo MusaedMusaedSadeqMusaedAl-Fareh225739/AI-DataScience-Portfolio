@@ -1,85 +1,84 @@
-AI-Driven Plant Analysis
-<img align="left" src="./npec_logo.png" alt="NPEC Logo" width="120"/>
+# AI-Driven Plant Analysis
 
-Client: Netherlands Plant Eco-phenotyping Centre (NPEC)
+<img align="left" src="./npec_logo.png" alt="NPEC Logo" width="120"/>  
 
-This project focused on identifying and segmenting root structures in Petri dish images using computer vision and automating precise plant inoculation with robotics.
-By combining U-Net-based semantic segmentation with robot control (PID & RL), the project delivered an end-to-end AI-driven pipeline for plant phenotyping.
+**Client:** Netherlands Plant Eco-phenotyping Centre (NPEC)
 
-Project Highlights
+This project focused on **identifying and segmenting root structures** in Petri dish images using computer vision and **automating precise plant inoculation** with robotics.
+By combining **U-Net-based semantic segmentation** with **robot control (PID & RL)**, the project delivered an **end-to-end AI-driven pipeline** for plant phenotyping.
 
-Developed a U-Net model achieving F1 score = 0.85 for root mask prediction.
+---
 
-Applied Dijkstra’s algorithm for precise measurement of primary root length.
+## Project Highlights
 
-Automated inoculation using the OT-2 robot, comparing PID controller vs. Reinforcement Learning.
+* Developed a **U-Net model** achieving **F1 score = 0.85** for root mask prediction.
+* Applied **Dijkstra’s algorithm** for precise measurement of **primary root length**.
+* Automated inoculation using the **OT-2 robot**, comparing **PID controller vs. Reinforcement Learning (RL)**.
+* Delivered an **integrated pipeline** combining vision-based analysis with robotic automation.
 
-Delivered an integrated system combining vision-based analysis with robotic automation.
+---
 
-Key Takeaways
+## Key Takeaways
 
-Gained advanced expertise in computer vision for agriculture (semantic segmentation, instance segmentation).
+* Built expertise in **computer vision for agriculture** (semantic & instance segmentation).
+* Designed a **precision robotic system** for plant inoculation (<1 mm accuracy).
+* Conducted a **PID vs RL comparison**:
 
-Built a precision robotic system for plant inoculation (<1 mm accuracy).
+  * **PID** → higher accuracy, stable (<1 mm error).
+  * **RL** → faster but slightly less accurate.
+* Developed a **complete workflow**: preprocessing → segmentation → measurement → robotic inoculation.
 
-Conducted a comparative study of PID vs RL controllers:
+---
 
-PID → higher accuracy, more stable (<1 mm error).
+## Technical Workflow
 
-RL → faster but slightly less accurate.
+### 1. Image Processing & Segmentation
 
-Designed and implemented a full AI-driven workflow, from image preprocessing → segmentation → measurement → robotic inoculation.
+* Preprocessed Petri dish images to remove background interference.
+* Trained **U-Net** on refined datasets for **seed, shoot, and root segmentation**.
+* Applied **instance segmentation** for root length measurement and root tip detection.
 
-Technical Workflow
+### 2. Root Measurement
 
-Image Processing & Segmentation
+* Used **Dijkstra’s algorithm** to calculate primary root length.
+* Produced interpretable outputs for biological researchers.
 
-Preprocessed Petri dish images to remove background interference.
+### 3. Robotic Inoculation
 
-U-Net trained on refined datasets for seed, shoot, and root segmentation.
+* Integrated segmentation pipeline with the **OT-2 robot**.
+* Implemented **PID controller** for precision liquid handling.
+* Compared **PID vs RL** trade-offs for inoculation speed and accuracy.
 
-Instance segmentation enabled root length measurement and root tip detection.
+---
 
-Root Measurement
+## Planned Additions
 
-Applied Dijkstra’s algorithm for calculating primary root length.
+* Detailed explanation of **PID controller design** (with diagrams).
+* Example workflow images:
 
-Produced interpretable outputs for biological researchers.
+  * Original Petri dish image.
+  * Plant segmentation mask.
+  * Root prediction output.
+  * Robot inoculation targeting.
 
-Robotic Inoculation
+---
 
-Integrated computer vision outputs with OT-2 robot.
+## Tools & Technologies
 
-Implemented PID controller for precision liquid handling.
+* **Computer Vision**: U-Net, OpenCV, Dijkstra’s algorithm
+* **Deep Learning**: PyTorch / TensorFlow
+* **Robotics**: OT-2 robot, PID controller, Reinforcement Learning agent
+* **Visualization**: Matplotlib, Seaborn
+* **Automation**: Integration of CV pipeline with robot API
 
-Compared PID vs RL for liquid delivery: accuracy vs speed trade-offs.
+---
 
-Planned Additions
+## Authors
 
-Explanation of PID controller design (with diagrams).
+* **Musaed Al-Fareh** – AI Engineer / Data Science Student @ BUas
 
-Example images to illustrate workflow:
+---
 
-Original Petri dish image.
+Now every section is marked with `#` / `##` / `###` so you’ll clearly see **big bold headings on GitHub**.
 
-Plant segmentation masks.
-
-Root structure predictions.
-
-Inoculation targeting via robot.
-
-Tools & Technologies
-
-Computer Vision: U-Net, OpenCV, Dijkstra’s algorithm
-
-Deep Learning: PyTorch / TensorFlow
-
-Robotics: OT-2 robot, PID controller, Reinforcement Learning agent
-
-Visualization: Matplotlib, Seaborn
-
-Automation: Integration of CV pipeline with robot API
-
-Authors
-
-Musaed Al-Fareh – AI Engineer / Data Science Student at BUas
+👉 Do you also want me to **insert placeholder `<img>` markdown tags** under “Planned Additions” so you know where to drop your Petri dish, segmentation, and robot workflow images?
