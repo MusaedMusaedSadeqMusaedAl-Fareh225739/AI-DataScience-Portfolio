@@ -66,10 +66,8 @@ Co-authored the policy paper and poster for academic dissemination.
 
 Ensured the final recommendations were actionable and aligned with SME constraints.
 
-Deliverables
+## Deliverables  
+- 📄 [Policy Paper](https://github.com/MusaedMusaedSadeqMusaedAl-Fareh225739/AI-DataScience-Portfolio/blob/main/projects/%20cybersecurity%26privacy/Policy_Paper%20(2).pdf)  
+- 📊 [Research Poster](https://github.com/MusaedMusaedSadeqMusaedAl-Fareh225739/AI-DataScience-Portfolio/blob/main/projects/%20cybersecurity%26privacy/Temperature%20Change%20Research%20Poster%20in%20Light%20Orange%20Orange%20Hand%20Drawn%20Style%20(3).pdf)  
+- 📝 [Research Proposal](https://github.com/MusaedMusaedSadeqMusaedAl-Fareh225739/AI-DataScience-Portfolio/blob/main/projects/%20cybersecurity%26privacy/research_proposal_template_Y2A__1_%20(1).pdf)  
 
-📄 Policy Paper
-
-📊 Research Poster
-
-📝 Research Proposal
