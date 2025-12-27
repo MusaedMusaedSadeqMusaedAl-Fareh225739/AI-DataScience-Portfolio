@@ -43,8 +43,8 @@ See the **Evidence Screenshots** folder for execution proof and demo visuals.
 ##  Demo & Presentation
 
 * **Power BI Dashboard** → [Dashboard.pbix](./Dashboard.pbix)
-* **Project Presentation Slides** → *(add link or PDF if you want)*
-* **System Demo** → *(insert demo video link if available)*
+* **Project Presentation Slides** → 
+* **System Demo** → 
 
 ---
 
