@@ -16,7 +16,7 @@ Everything is fully automated — from **data ingestion** to **deployment and mo
 
 ---
 
-## 🎯 Project Highlights
+##  Project Highlights
 
 * Built a **multilingual NLP pipeline** for emotion and text classification.
 * Designed a **three-tier model strategy** (basic, intermediate, premium).
@@ -58,7 +58,7 @@ See the **Evidence Screenshots** folder for execution proof and demo visuals.
 
 ---
 
-## 👥 Authors
+##  Authors
 
 * **Musaed Al-Fareh** – AI Engineer / Data Science Student @ BUas
 * Collaborators – MLOps Block-D Project Team
